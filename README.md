@@ -67,7 +67,7 @@ How to use
 Training YOLO on VOC
 ---
 
-####On windows
+#### On windows
 
 1. Download pre-trained weights for the convolutional layers (76 MB): <http://pjreddie.com/media/files/darknet19_448.conv.23> and put to the directory `YOLOV2-pytorch/data/weights/`
 
@@ -120,8 +120,3 @@ Training YOLO on VOC
 #### On linux
 
 Using the command line: `python cvs.py --eval True`
-
-License
----
-
-This project is released as the open source software with the GNU Lesser General Public License version 3 (LGPL v3).
