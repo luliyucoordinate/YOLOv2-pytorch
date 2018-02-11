@@ -1,0 +1,13 @@
+Cython==0.26.1
+h5py==2.7.0
+ipython==6.1.0
+matplotlib==2.1.0
+numpy==1.13.3
+Pillow==4.2.1
+pywin32==221
+scikit-image==0.13.0
+scikit-learn==0.19.1
+testpath==0.3.1
+toolz==0.8.2
+torch==0.3.0b0+591e73e
+torchvision==0.2.0
